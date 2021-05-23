@@ -1,0 +1,114 @@
+12304
+Added Data:
+table[0] = <Empty>
+table[1] = < The Civil War Awakening, >
+table[2] = <Empty>
+table[3] = < New Revelations of the Americas Before Columbus , >
+table[4] = < The Year the World Began, >
+table[5] = < The Month That Saved America, >
+table[6] = < The Year Everything Changed, The Year of Magna Carta, >
+table[7] = < A Novel of the Jazz Age, >
+table[8] = <Empty>
+table[9] = < A New Look at Thanksgiving, >
+table[10] = <Empty>
+table[11] = <Empty>
+table[12] = <Empty>
+table[13] = <Empty>
+table[14] = < A Global History, The First Modern Revolution, >
+table[15] = < The Year That Rocked the World, >
+table[16] = <Empty>
+table[17] = < A Space Odyssey (Space Odyssey, #1), >
+table[18] = <Empty>
+table[19] = <Empty>
+table[20] = <Empty>
+table[21] = <Empty>
+table[22] = < In Search of the World Before the Great War, >
+table[23] = <Empty>
+table[24] = <Empty>
+table[25] = < The Easter Rising, >
+table[26] = <Empty>
+table[27] = <Empty>
+table[28] = <Empty>
+table[29] = < The Year of the Six Presidents, >
+table[30] = < The Year Civilization Collapsed, >
+
+Time Complexity To Add Data: 2
+Deleted Data:
+The Civil War Awakening
+The Year That Rocked the World
+The Year Everything Changed
+The Year of the Six Presidents
+table[0] = <Empty>
+table[1] = <Empty>
+table[2] = <Empty>
+table[3] = < New Revelations of the Americas Before Columbus , >
+table[4] = < The Year the World Began, >
+table[5] = < The Month That Saved America, >
+table[6] = <Empty>
+table[7] = < A Novel of the Jazz Age, >
+table[8] = <Empty>
+table[9] = < A New Look at Thanksgiving, >
+table[10] = <Empty>
+table[11] = <Empty>
+table[12] = <Empty>
+table[13] = <Empty>
+table[14] = < A Global History, The First Modern Revolution, >
+table[15] = <Empty>
+table[16] = <Empty>
+table[17] = < A Space Odyssey (Space Odyssey, #1), >
+table[18] = <Empty>
+table[19] = <Empty>
+table[20] = <Empty>
+table[21] = <Empty>
+table[22] = < In Search of the World Before the Great War, >
+table[23] = <Empty>
+table[24] = <Empty>
+table[25] = < The Easter Rising, >
+table[26] = <Empty>
+table[27] = <Empty>
+table[28] = <Empty>
+table[29] = <Empty>
+table[30] = < The Year Civilization Collapsed, >
+
+Time Complexity To Delete Data: 0
+Added Data:
+table[0] = <Empty>
+table[1] = <Empty>
+table[2] = <Empty>
+table[3] = < Lincoln: A Photobiography. Clarion Books, 1987., The World in Revolt, New Revelations of the Americas Before Columbus , >
+table[4] = < The Year the World Began, >
+table[5] = < The Month That Saved America, >
+table[6] = <Empty>
+table[7] = < A Novel of the Jazz Age, >
+table[8] = <Empty>
+table[9] = < A New Look at Thanksgiving, >
+table[10] = <Empty>
+table[11] = <Empty>
+table[12] = < The Most Revolutionary Year in Music, >
+table[13] = <Empty>
+table[14] = < A Global History, The First Modern Revolution, >
+table[15] = <Empty>
+table[16] = <Empty>
+table[17] = < A Space Odyssey (Space Odyssey, #1), >
+table[18] = <Empty>
+table[19] = <Empty>
+table[20] = <Empty>
+table[21] = <Empty>
+table[22] = < In Search of the World Before the Great War, >
+table[23] = <Empty>
+table[24] = <Empty>
+table[25] = < The Easter Rising, >
+table[26] = <Empty>
+table[27] = <Empty>
+table[28] = <Empty>
+table[29] = <Empty>
+table[30] = < The Year Civilization Collapsed, >
+
+Searched Result:
+true
+false
+false
+false
+true
+true
+Time Complexity To Get Data: 0
