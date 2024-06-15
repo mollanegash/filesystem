@@ -1,39 +1,33 @@
 # filesystem
-FilesystemChained Hash Table Implementation
+FilesystemChained: Efficient Hash Table Implementation
 
 Overview
 
-This repository contains a Java implementation of a hash table with chaining for collision resolution.
+FilesystemChained is a Java library that provides an efficient hash table implementation with chaining for collision resolution. This repository showcases a fundamental data structure in computer science, offering a reliable and scalable solution for various applications.
 
-Features
+Key Features
 
 - Hash table with chaining for collision resolution
-- Fixed table size of 31
+- Fixed table size of 31 for optimized performance
 - Support for adding, searching, and deleting data
-- Linked list implementation for collision resolution
+- Linked list implementation for efficient collision resolution
 
-Usage
+Benefits
 
-To use the FilesystemChained class, simply instantiate it and call the appropriate methods (add, search, delete).
+- Fast and efficient data retrieval
+- Scalable solution for large datasets
+- Reliable implementation with robust collision handling
 
-Example
+Usage Examples
 
-// Create a new hash table
-FilesystemChained hashTable = new FilesystemChained();
-
-// Add data
-hashTable.add("data1", 1);
-hashTable.add("data2", 2);
-
-// Search for data
-boolean found = hashTable.search("data1", 1);
-
-// Delete data
-hashTable.delete("data2", 2);
+- Add data: hashTable.add("data1", 1);
+- Search for data: boolean found = hashTable.search("data1", 1);
+- Delete data: hashTable.delete("data2", 2);
 
 License
 
-This repository is licensed under the MIT License.
+MIT License
+
 Contact
 Molla Negash
 Email: mdraya3@gmail.com
